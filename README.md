@@ -1,2 +1,3 @@
-# 8-Ball-App
-A Funny 8 Mystical Ball built for iOS
+# 8-Ball-App :eigth:
+
+A Funny 8 Mystical Ball built for iOS :witch:
