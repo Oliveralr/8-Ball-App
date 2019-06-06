@@ -1,3 +1,3 @@
-# 8-Ball-App :circle:
+# 8-Ball-App :octocat:
 
-A Funny 8 Mystical Ball built for iOS
+A Funny 8 Mystical Ball built for iOS :apple:
